@@ -1,0 +1,32 @@
+compile
+Sortable
+Sortable.sort(new List(1, 3))
+console
+reload
+compile
+exit
+Sortable
+sorting
+console
+reload
+console
+run
+compile
+foo
+scala
+console
+ompile
+compile
+clear
+compile
+console
+run
+run last compile:run
+exit
+run last compile:run
+run:last compile:run
+run last compile:run
+last compile:run
+run
+compile
+run
